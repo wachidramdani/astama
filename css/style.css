@@ -130,10 +130,10 @@ li a.active{
 	width: 5%;
 }
 .carousel-inner{
-	background: -webkit-linear-gradient(left, #000 , blue); /* For Safari 5.1 to 6.0 */
-	background: -o-linear-gradient(left, #000, blue); /* For Opera 11.1 to 12.0 */
-	background: -moz-linear-gradient(left, #000, blue); /* For Firefox 3.6 to 15 */
-	background: linear-gradient(to left, #000 , blue); /* Standard syntax */
+	background: -webkit-linear-gradient(left, #f3f3f3 ,white); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(left, #fff , white); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(left, #fff, white); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to left, #fff , white); /* Standard syntax */
 }
 .item{
 	position: relative;
@@ -262,7 +262,7 @@ li a.active{
 }
 .service h2{
 	font-size: 90px;
-	color: #fff;
+	color: #131212;
 	margin-top: 70px;
 	margin-bottom: 0;
 }
@@ -285,12 +285,12 @@ li a.active{
 .service-img {
   width: 205px;
   height: 125px;
-  background: #3a9ecb;
+  background: #fff;
   position: relative;
 }
 .single-service h3{
 	margin-top: 10px;
-	color: #fff;
+	color: #000;
 	padding-bottom: 50px;
 	position:relative;
 }
