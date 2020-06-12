@@ -247,10 +247,10 @@ li a.active{
 	padding-bottom: 30px;
 }
 .single-about-detail:hover .about-details{
-	background: #3a9dca;
+	background: #fff;
 }
 .single-about-detail:hover .pentagon-text h1{
-	color: #3a9dca;
+	color: #fff;
 }
 
 
