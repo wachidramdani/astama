@@ -227,7 +227,6 @@ li a.active{
   border-top: 15px solid #fff;
 }
 .about-details{
-	background: #2a2a2a;
 	border-top: 2px solid #fff;
 	transition: all .7s ease 0s;
 	-webkit-transition: all .7s ease 0s;
@@ -237,7 +236,7 @@ li a.active{
 }
 .about-details h3{
 	font-size: 36px;
-	color: #f6f1f1;
+	color: #2a2a2a;
 	margin-top: 0;
 }
 .about-details p{
@@ -325,7 +324,7 @@ li a.active{
 }
 .person-detail{
 	padding:10px;
-	background: #3a9cc8;
+	background: #121313;
 	position: relative;
 	transition: all .7s ease 0s;
 	-webkit-transition: all .7s ease 0s;
@@ -337,7 +336,7 @@ li a.active{
 	position: absolute;
 	width: 20px;
 	height: 20px;
-	background: #3ba0cc;
+	background: #efefef;
 	transform:rotate(45deg);
 	-webkit-transform:rotate(45deg);
 	-moz-transform:rotate(45deg);
@@ -355,7 +354,7 @@ li a.active{
 	position: absolute;
 	width: 20px;
 	height: 20px;
-	background: #3ba0cc;
+	background: #efefef;
 	transform:rotate(45deg);
 	-webkit-transform:rotate(45deg);
 	-moz-transform:rotate(45deg);
