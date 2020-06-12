@@ -77,7 +77,7 @@ ul.nav{
   background-color: #000;
 }
 li a.active{
-	color: #42b3e5 !important;
+	color: #9ca9ae !important;
 }
 .navbar-default .navbar-toggle {
   border-color: #fff;
@@ -168,7 +168,7 @@ li a.active{
 /*about area*/
 .about h2{
 	font-size: 90px;
-	color: #42b3e5;
+	color: #0d0e0e;
 	margin-top: 50px;
 }
 .about h4{
@@ -237,7 +237,7 @@ li a.active{
 }
 .about-details h3{
 	font-size: 36px;
-	color: #fff;
+	color: #f6f1f1;
 	margin-top: 0;
 }
 .about-details p{
@@ -306,7 +306,7 @@ li a.active{
 }
 .team h2{
 	font-size: 90px;
-	color: #42b3e5;
+	color: #0d0e0e;
 	margin-top: 50px;
 	margin-bottom: 0;
 }
@@ -413,7 +413,7 @@ li a.active{
 .contact-form h3{
 	padding-left: 0;
 	font-size: 30px;
-	color: #fff;
+	color:#121212;
 	text-transform: uppercase;
 	font-weight: bold;
 	border-bottom: 1px solid #13849c;
@@ -427,7 +427,7 @@ li a.active{
 .contact-info ul li{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
-	color: #fff;
+	color:#0a0909;
 }
 .contact-info i.fa{
 	font-size: 16px;
@@ -458,7 +458,7 @@ li a.active{
 	margin-bottom: 12px;
 }
 .info-detail{
-	border-top: 1px solid #53cde5;
+	border-top: 1px solid #121212;
 	padding-top: 15px;
 }
 .form{
@@ -753,7 +753,7 @@ responsive area
 	}
 	.about h2 {
 	  font-size: 50px;
-	  color: #42b3e5;
+	  color:#dbcfcf;
 	  margin-top: 30px;
 	}
 	.service h2 {
