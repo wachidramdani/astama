@@ -814,3 +814,23 @@ responsive area
   		font-size: 10px;
 	  }
 }
+
+.modal-body img {
+	width: 300px;
+    margin: 0px 5px 15px 10px;
+}
+
+.close {
+	font-size: 70px;
+	line-height: 0;
+}
+
+.modal-title {
+	line-height: 0.42857143;
+	margin: 5px 0;
+}
+
+.modal-dialog {
+	margin: 120px auto;
+	width: 75%;
+}
