@@ -235,7 +235,7 @@ li a.active{
 	-ms-transition: all .7s ease 0s;
 }
 .about-details h3{
-	font-size: 36px;
+	font-size: 28px;
 	color: #2a2a2a;
 	margin-top: 0;
 }
@@ -828,9 +828,14 @@ responsive area
 .modal-title {
 	line-height: 0.42857143;
 	margin: 5px 0;
+	font-family: serif;
 }
 
 .modal-dialog {
 	margin: 120px auto;
 	width: 75%;
+}
+
+.font-custom {
+	font-family: serif;
 }
